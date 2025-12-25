@@ -1,0 +1,31 @@
+city,Area,Start_Time,End_Time,reason,affected_customers
+New York,Manhattan,2024-01-06 07:40,2024-01-06 08:30,Planned Maintenance,3400
+New York,Brooklyn,2024-01-19 21:15,2024-01-19 23:00,Substation Fault,5200
+New York,Queens,2024-02-04 15:10,2024-02-04 16:05,Overload,2900
+Los Angeles,Hollywood,2024-01-09 10:20,2024-01-09 11:00,Equipment Failure,2600
+Los Angeles,Downtown,2024-01-23 18:45,2024-01-23 20:30,Storm Damage,4800
+Los Angeles,Pasadena,2024-02-11 06:30,2024-02-11 07:15,Maintenance,1700
+Chicago,Loop,2024-01-13 08:50,2024-01-13 09:40,Transformer Failure,3100
+Chicago,Hyde Park,2024-01-28 17:10,2024-01-28 18:45,Load Imbalance,2400
+Chicago,Lincoln Park,2024-02-16 14:25,2024-02-16 15:20,Planned Maintenance,1900
+Houston,Downtown,2024-01-15 11:00,2024-01-15 12:10,Grid Fault,3500
+Houston,Midtown,2024-01-31 20:30,2024-01-31 22:00,Weather Impact,4200
+Houston,The Woodlands,2024-02-14 05:45,2024-02-14 06:35,Maintenance,1600
+San Francisco,SOMA,2024-01-11 09:15,2024-01-11 10:05,Underground Cable Fault,2800
+San Francisco,Mission District,2024-01-26 16:50,2024-01-26 18:10,Equipment Failure,3300
+San Francisco,Sunset District,2024-02-18 07:20,2024-02-18 08:00,Planned Maintenance,2100
+Delhi,Karol Bagh,2024-01-05 08:15,2024-01-05 09:10,Maintenance,1200
+Delhi,Dwarka,2024-01-12 18:30,2024-01-12 20:00,Transformer Fault,2300
+Delhi,Saket,2024-02-03 14:20,2024-02-03 15:00,Load Shedding,1500
+Mumbai,Andheri,2024-01-08 11:00,2024-01-08 11:45,Cable Fault,1800
+Mumbai,Bandra,2024-01-21 22:10,2024-01-22 00:30,Storm Damage,3200
+Mumbai,Colaba,2024-02-10 06:40,2024-02-10 07:20,Maintenance,900
+Bengaluru,Whitefield,2024-01-14 09:30,2024-01-14 11:00,Technical Failure,2600
+Bengaluru,Indiranagar,2024-01-27 19:00,2024-01-27 20:15,Load Shedding,2100
+Bengaluru,Yelahanka,2024-02-08 13:10,2024-02-08 14:00,Maintenance,1700
+Chennai,T Nagar,2024-01-10 07:50,2024-01-10 09:30,Underground Cable Fault,2000
+Chennai,Velachery,2024-01-25 16:00,2024-01-25 17:10,Transformer Fault,2400
+Chennai,Anna Nagar,2024-02-15 10:30,2024-02-15 11:15,Maintenance,1300
+Hyderabad,Gachibowli,2024-01-18 12:45,2024-01-18 13:30,Load Shedding,1900
+Hyderabad,Kukatpally,2024-01-30 20:10,2024-01-30 21:50,Equipment Failure,2800
+Hyderabad,Secunderabad,2024-02-12 05:30,2024-02-12 06:10,Maintenance,1100
